@@ -61,7 +61,7 @@
 * https://tech.xogrp.com/my-precious-little-container-emphasis-on-little-8a2b2077e35f
 * https://github.com/xogroup/sns-to-rabbitmq
 
-## Fun Tutorials
+## Fun Tutorials / Code
 
 * https://www.defmacro.org/ramblings/lisp-in-haskell.html
 * https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
@@ -69,3 +69,7 @@
 * https://github.com/crabmusket/haskell-simple-concurrency/blob/master/src/tutorial.md
 * https://www.fpcomplete.com/blog/2016/11/comparative-concurrency-with-haskell/
 * https://www.snoyman.com/blog/2016/11/haskells-missing-concurrency-basics/
+* https://github.com/LambdaHack/LambdaHack
+* https://lokathor.gitbooks.io/using-haskell/content/roguelike/
+* http://www.andrevdm.com/posts/2018-04-02-haskell-rogue-like.html
+* https://github.com/andrevdm/haskellRogueLike
